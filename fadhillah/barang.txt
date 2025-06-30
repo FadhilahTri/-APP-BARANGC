@@ -1,0 +1,11 @@
+botol|sitrun|15|2000.00
+botol1|prostek|15|29000.00
+botol2|wipol|15|19000.00
+botol3|rinso|50|1000.00
+botol4|sunlight|20|23000.00
+botol5|molto|50|1000.00
+botol6|pasta gigi|30|10000.00
+botol7|sabun mandi|20|20000.00
+botol8|sampo|30|1000.00
+botol9|tisu|50|1000.00
+botol10|air mineral|30|3500.00
